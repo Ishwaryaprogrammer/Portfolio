@@ -1,2 +1,2 @@
 # Portfolio
-This repository showcases my portfolio projects, including backend systems, AI solutions, and web applications. Each project demonstrates my skills in technologies like Node.js, React, MongoDB, Python, and more. Feel free to explore and get a deeper look at how I approach problem-solving and development.
+Welcome to my portfolio! I’m Ishwarya, and here you’ll find my journey through backend development, AI, and web technologies. From building scalable web apps with Node.js and React to diving into AI projects, I’m passionate about creating solutions that matter. Take a look at my work, and feel free to reach out — let’s make something awesome together!
